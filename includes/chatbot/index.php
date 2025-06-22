@@ -235,7 +235,7 @@ body {
 
 <?php
 // Replace with your OpenRouter API key
-$apiKey = "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";
+$apiKey = "";
 
 // $userMessage = $_POST['message'];
 
