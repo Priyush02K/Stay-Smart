@@ -46,5 +46,5 @@ A scalable and dynamic **Hotel Management System** built with **PHP & MySQL**, d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/staysmart-hotel-management.git
+   git clone https://github.com/Priyush02K/Stay-Smart.git
    cd staysmart-hotel-management
