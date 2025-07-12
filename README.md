@@ -55,10 +55,10 @@ Import the .sql file from /database/staysmart_db.sql into phpMyAdmin or using CL
 
 3. Configure config.php or .env
 Edit the database connection settings as follows:
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'staysmart_db');
+-define('DB_HOST', 'localhost');
+-define('DB_USER', 'root');
+-define('DB_PASS', '');
+-define('DB_NAME', 'staysmart_db');
 
 4. Run the Project
 Start Apache and MySQL using XAMPP, MAMP, or any local server
