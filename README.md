@@ -64,8 +64,8 @@ define('DB_NAME', 'staysmart_db');
 Start Apache and MySQL using XAMPP, MAMP, or any local server
 
 Navigate to http://localhost/staysmart in your browser
-
-📸 Screenshots
+---
+##📸 Screenshots
 Dashboard	Room Management	Booking Reports
 
 Reports
