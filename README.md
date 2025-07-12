@@ -48,3 +48,37 @@ A scalable and dynamic **Hotel Management System** built with **PHP & MySQL**, d
    ```bash
    git clone https://github.com/Priyush02K/Stay-Smart.git
    cd staysmart-hotel-management
+2. Import the Database
+Create a MySQL database named staysmart_db
+
+Import the .sql file from /database/staysmart_db.sql into phpMyAdmin or using CLI
+
+3. Configure config.php or .env
+Edit the database connection settings as follows:
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'staysmart_db');
+
+4. Run the Project
+Start Apache and MySQL using XAMPP, MAMP, or any local server
+
+Navigate to http://localhost/staysmart in your browser
+
+📸 Screenshots
+Dashboard	Room Management	Booking Reports
+
+Reports
+
+📹 Live Demo
+🎥 Watch the working demo here:
+🔗 YouTube Demo Link
+
+
+🤝 Contributing
+Pull requests are welcome! Feel free to fork the repository and submit improvements.
+
+📜 License
+MIT License.
+You are free to use, modify, and distribute this project for personal or educational purposes.
+
